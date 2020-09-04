@@ -349,6 +349,5 @@
     * [FAQ: MongoDB 存储](docs/Frequently-Asked-Questions/MongoDB-Storage.md)
     * [FAQ: MongoDB 诊断](docs/Frequently-Asked-Questions/MongoDB-Diagnostics.md)
 * 联系我们
-    * [锦木信息](http://www.jinmuinfo.com/)
     * [MongoDB中文社区](https://mongoing.com/)
 
